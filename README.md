@@ -1,4 +1,4 @@
-# Make sure Node is installed on your system
+# Make sure Node and NPM is installed on your system
 
 1. Download the zipped folder.
 2. Extract the zipped folder any where in your system.
